@@ -1,7 +1,11 @@
 # SeleniumProject
 Notes
+
+
 AIRPORT_CITY example
+
 //tbody//tr[2]/td[6]
+
 https://www.tase.co.il/en/market_data/index/137/components/securities_data
 
 
